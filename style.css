@@ -61,8 +61,8 @@ header {
     border-radius: 5px;
 }
 
-/* WHY + ORDER */
-section ul, section ol {
+/* LIST */
+ul, ol {
     list-style: none;
     padding: 0;
 }
